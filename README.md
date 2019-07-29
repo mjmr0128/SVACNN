@@ -1,10 +1,11 @@
 ### SVA_CNN
-Semblance Velocity Analysis using Convolutional Neural Networks.
+This is Keras based code for Semblance Velocity Analysis using Convolutional Neural Networks.
 
 
 ### Environment
 -  Python 3.6
 -  Tensorflow 1.13
+-  Keras 2.2.4
 -  Cuda 10.1
 -  Cudnn 7.5 
 
